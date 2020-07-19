@@ -1,0 +1,16 @@
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\bin\Debug\Sandesh-stickyNotes.exe.config
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\bin\Debug\Sandesh-stickyNotes.exe
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\bin\Debug\Sandesh-stickyNotes.pdb
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh-stickyNotes.csprojResolveAssemblyReference.cache
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh_stickyNotes.Properties.Resources.resources
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh-stickyNotes.csproj.GenerateResource.Cache
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh-stickyNotes.exe
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh-stickyNotes.pdb
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh_stickyNotes.CreateUser.resources
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh_stickyNotes.Login.resources
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh_stickyNotes.StickyNotes.resources
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh_stickyNotes.CreateCategory.resources
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh_stickyNotes.AddingNote.resources
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh_stickyNotes.GraphFoNotes.resources
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh_stickyNotes.AdminPrivilige.resources
+D:\WinForm\Sandesh-stickyNotes\Sandesh-stickyNotes\obj\Debug\Sandesh_stickyNotes.MyProfileEdit.resources

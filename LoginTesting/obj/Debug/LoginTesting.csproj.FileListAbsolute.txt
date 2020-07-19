@@ -1,0 +1,9 @@
+D:\WinForm\Sandesh-stickyNotes\LoginTesting\bin\Debug\LoginTesting.dll
+D:\WinForm\Sandesh-stickyNotes\LoginTesting\bin\Debug\LoginTesting.pdb
+D:\WinForm\Sandesh-stickyNotes\LoginTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\WinForm\Sandesh-stickyNotes\LoginTesting\bin\Debug\Sandesh-stickyNotes.exe
+D:\WinForm\Sandesh-stickyNotes\LoginTesting\bin\Debug\Sandesh-stickyNotes.pdb
+D:\WinForm\Sandesh-stickyNotes\LoginTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\WinForm\Sandesh-stickyNotes\LoginTesting\obj\Debug\LoginTesting.csprojResolveAssemblyReference.cache
+D:\WinForm\Sandesh-stickyNotes\LoginTesting\obj\Debug\LoginTesting.dll
+D:\WinForm\Sandesh-stickyNotes\LoginTesting\obj\Debug\LoginTesting.pdb
